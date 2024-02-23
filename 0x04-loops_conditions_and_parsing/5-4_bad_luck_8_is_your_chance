@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Displays after Looping from 1 to 10:
 #         Displays "bad luck" for the 4th iteration
 #         Displays good luck" for the 8th iterations
